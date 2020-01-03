@@ -33,9 +33,6 @@ bld.each do |meal|
 end
 
 
-#a ALL OF THESE FOLLOWING PRINT STATEMENTS ARE DANK
-#JUST TRYIN TO LOOK AT OTHER STUFF
-
 puts "BREAKFAST"
 breakfast.each { |f| puts f}
 puts ""
